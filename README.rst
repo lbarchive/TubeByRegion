@@ -11,8 +11,10 @@ Continents
 ==========
 
 * `North America`_
+* `Asia`_
 
 .. _North America: NorthAmerica/
+.. _Asia: Asia/
 
 
 Contribute
