@@ -103,13 +103,15 @@ How to contribute
 
     # Region 2
 
-    * `foobar2`_
+    * `foobar2`_: *the tagline*
 
     .. _foobar2: http://youtube.com/channel/{channel}
 
-* Description is not required
+* Description is not required, tagline is optional
 
   Maybe no description is better, to keep the list clean.
+
+  If there is a tagline around--like in logo, and it is clear and short enough, then put it on in the same way in the example above. Separate title and tagline with ":" and make tagline italics. Keep letter cases as in the original tagline, keep the styled text if possible.
 
 * Commit and push
 
