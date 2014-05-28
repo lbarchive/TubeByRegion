@@ -17,12 +17,12 @@ Continents
 .. _Asia: Asia/
 
 
-Contribute
-==========
+Contributing
+============
 
-See contribute_ page.
+See contributing_ page.
 
-.. _contribute: CONTRIBUTE.rst
+.. _contributing: CONTRIBUTING.rst
 
 
 Copyright

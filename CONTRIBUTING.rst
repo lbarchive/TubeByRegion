@@ -1,6 +1,6 @@
-==========
-Contribute
-==========
+============
+Contributing
+============
 
 .. contents:: **Contents**
    :local:
