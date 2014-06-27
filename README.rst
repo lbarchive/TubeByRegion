@@ -10,9 +10,11 @@ Someday, I hope this project will grow into something that would help people to 
 Continents
 ==========
 
+* `World`_
 * `North America`_
 * `Asia`_
 
+.. _World: World.rst
 .. _North America: NorthAmerica/
 .. _Asia: Asia/
 

@@ -3,11 +3,13 @@ United States
 =============
 
 * `America's Heartland`_
+* `Food Farm Earth`_: *A journey of wide discovery about our food and sustainable agriculture.*
 * `NationSwell`_: *Meet the People Renewing America*
 * `PBS | Food`_
 * `Southern Living`_
 
 .. _America's Heartland: https://www.youtube.com/user/americasheartland
+.. _Food Farm Earth: https://www.youtube.com/user/foodfarmerearth
 .. _NationSwell: https://www.youtube.com/user/nationswell
 .. _PBS | Food: https://www.youtube.com/user/PBSFood
 .. _Southern Living: https://www.youtube.com/user/SouthernLivingMag
